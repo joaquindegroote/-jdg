@@ -11,7 +11,7 @@ Soy Joaquín Alexander De Groote, un apasionado por la optimización de procesos
 - **Optimización de procesos**: Especializado en optimizar la producción diaria en entornos industriales, considerando limitaciones y diversas variables como la cantidad de personal y la productividad en diferentes turnos.
 - **Modelos matemáticos**: Me enfoco en la creación y refinamiento de modelos matemáticos avanzados, como los modelos de Bass y RUM, para estimar la adopción de programas de beneficios y su impacto a lo largo del tiempo.
 - **Análisis de datos**: Trabajo con herramientas como Excel 365, donde exploro funciones avanzadas para maximizar el valor de los datos en la toma de decisiones.
-- **Teoría crítica**: Me interesa profundizar en las ideas de pensadores como Michel Foucault, Edward Said, Walter Mignolo, Frantz Fanon, y Gayatri Chakravorty Spivak, aplicando sus conceptos en contextos contemporáneos.
+- **Teoría crítica**: Me interesa profundizar en las ideas de filososos , aplicando sus conceptos en contextos contemporáneos, como en la etica de fatos .
 
 ## Proyectos Destacados
 
@@ -19,11 +19,8 @@ Soy Joaquín Alexander De Groote, un apasionado por la optimización de procesos
 
 2. **Modelos de Adopción de Beneficios**: Refinamiento de los modelos de Bass y RUM para prever la adopción de programas de beneficios a lo largo de un horizonte de tres años, considerando el crecimiento estándar de los pacientes y la transición gradual entre niveles de fidelidad.
 
-3. **Herramientas de Excel 365**: Scripts y plantillas que muestran el uso avanzado de funciones poderosas de Excel para optimización y análisis de datos.
 
 ## Contacto
-
-Si te interesa colaborar o aprender más sobre mi trabajo, no dudes en contactarme a través de [tu correo electrónico] o seguirme en [tu LinkedIn o redes sociales].
 
 ---
 
